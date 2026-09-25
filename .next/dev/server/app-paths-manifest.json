@@ -1,0 +1,4 @@
+{
+  "/[[...slug]]/page": "app/[[...slug]]/page.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js"
+}

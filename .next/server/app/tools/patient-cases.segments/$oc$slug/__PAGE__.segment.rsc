@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[2593,["500","static/chunks/500-b13bb91f5a6311b6.js","329","static/chunks/329-00968242c2b107df.js","340","static/chunks/app/%5B%5B...slug%5D%5D/page-31f4365ef3ba9740.js"],"PatientCasesPage"]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[484,[],"ViewportBoundary"]
+9:I[484,[],"MetadataBoundary"]
+b:I[7121,[],""]
+c:I[4581,[],""]
+7:X
+e:X
+e:C
+0:{"buildId":"Fyt4YRq1IfdTy96UldKPE","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"toolsCrumb":true}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Patient case explorer — Lucian Ion FRCS(Plast)"}],["$","meta","1",{"name":"description","content":"Filter published patient cases by area and procedure."}],["$","meta","2",{"name":"author","content":"Lucian Ion"}],["$","link","3",{"rel":"canonical","href":"/tools/patient-cases"}],["$","meta","4",{"property":"og:title","content":"Patient case explorer — Lucian Ion FRCS(Plast)"}],["$","meta","5",{"property":"og:description","content":"Filter published patient cases by area and procedure."}],["$","meta","6",{"property":"og:url","content":"/tools/patient-cases"}],["$","meta","7",{"property":"og:type","content":"website"}],["$","meta","8",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","9",{"name":"twitter:title","content":"Patient case explorer — Lucian Ion FRCS(Plast)"}],["$","meta","10",{"name":"twitter:description","content":"Filter published patient cases by area and procedure."}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$7","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+5:null
+10:true
+7:300
+7:C
+f:0
+a:"$undefined"
+d:"$undefined"
+6:"$undefined"

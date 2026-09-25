@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+2:I[8455,["500","static/chunks/500-b13bb91f5a6311b6.js","329","static/chunks/329-00968242c2b107df.js","340","static/chunks/app/%5B%5B...slug%5D%5D/page-31f4365ef3ba9740.js"],"PrivacyPolicyPage"]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[484,[],"ViewportBoundary"]
+9:I[484,[],"MetadataBoundary"]
+b:I[7121,[],""]
+c:I[4581,[],""]
+7:X
+e:X
+e:C
+0:{"buildId":"Fyt4YRq1IfdTy96UldKPE","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Privacy policy — Lucian Ion FRCS(Plast)"}],["$","meta","1",{"name":"description","content":"How the practice of Lucian Ion FRCS(Plast) handles personal information collected through this website."}],["$","meta","2",{"name":"author","content":"Lucian Ion"}],["$","meta","3",{"name":"robots","content":"noindex, follow"}],["$","link","4",{"rel":"canonical","href":"/privacy-policy"}],["$","meta","5",{"property":"og:title","content":"Privacy policy — Lucian Ion FRCS(Plast)"}],["$","meta","6",{"property":"og:description","content":"How the practice of Lucian Ion FRCS(Plast) handles personal information collected through this website."}],["$","meta","7",{"property":"og:url","content":"/privacy-policy"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","10",{"name":"twitter:title","content":"Privacy policy — Lucian Ion FRCS(Plast)"}],["$","meta","11",{"name":"twitter:description","content":"How the practice of Lucian Ion FRCS(Plast) handles personal information collected through this website."}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}]}]]}],"isPartial":"$@d","staleTime":"$7","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+5:null
+10:true
+7:300
+7:C
+f:0
+a:"$undefined"
+d:"$undefined"
+6:"$undefined"
